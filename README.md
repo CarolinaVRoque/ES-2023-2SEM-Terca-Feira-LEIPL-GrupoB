@@ -20,12 +20,12 @@ Este é um projeto desenvolvido em equipa para a disciplina de Engenharia de Sof
 -Trello com PowerUp do GitHub para gestão do projeto segundo abordagem Scrum, com rastreio entre os cartões das user stories e os eventos respetivos no GitHub (commits, pull requests e issues)
 
 ## Participantes
-- Ana Rita Pereira Francisco (94639)
-- Bruno Alexandre Guinapo Carvalheiro (94514)
-- Carolina Varanda Roque (98494)
-- Catarina Alexandre do Carmo Loureiro (94575)
-- Nuno Filipe de Oliveira Monteiro (94587)
-- Diogo Miguel Leal da Costa (94466)
+- Ana Rita Pereira Francisco (94639), RitaAPF
+- Bruno Alexandre Guinapo Carvalheiro (94514), bcarvalheiro
+- Carolina Varanda Roque (98494), CarolinaVRoque
+- Catarina Alexandre do Carmo Loureiro (94575), neoeve
+- Nuno Filipe de Oliveira Monteiro (94587), bitilitos
+- Diogo Miguel Leal da Costa (94466), DiogoM107
 
 ## Como Usar
 - Clone o repositório para a sua máquina:
